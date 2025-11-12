@@ -1,0 +1,10 @@
+pandas>=1.3
+numpy>=1.21
+scikit-learn>=1.0
+seaborn>=0.11
+matplotlib>=3.4
+notebook
+jupyterlab
+holidays>=0.84
+openmeteo-requests>=1.7.4
+requests>=2.32.5
