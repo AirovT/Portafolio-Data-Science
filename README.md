@@ -1,4 +1,4 @@
-# 🍺 Bar Intelligence: Data-Driven Optimization for "Chumazero Bar"
+# 🍺 Bar Intelligence: Data-Driven Optimization for "'CONFIDENCIAL' Bar"
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
